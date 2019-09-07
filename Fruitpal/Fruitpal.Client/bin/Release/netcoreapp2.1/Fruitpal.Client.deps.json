@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "93da8e493be8847373024537499a55fc43b34975"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Fruitpal.Client/1.0.0": {
+        "dependencies": {
+          "StatesTitle.Fruitpal.Nuget": "1.0.0"
+        },
+        "runtime": {
+          "Fruitpal.Client.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "StatesTitle.Fruitpal.Nuget/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Fruitpal.Nuget.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fruitpal.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "StatesTitle.Fruitpal.Nuget/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-trh6aOOLbCumwowarg0EgaihuPh59CYckwq3fUEp+B83qc+7R1STZ96PIX2TV3z+8oSoI1L94gicV7ORfNflYQ==",
+      "path": "statestitle.fruitpal.nuget/1.0.0",
+      "hashPath": "statestitle.fruitpal.nuget.1.0.0.nupkg.sha512"
+    }
+  }
+}

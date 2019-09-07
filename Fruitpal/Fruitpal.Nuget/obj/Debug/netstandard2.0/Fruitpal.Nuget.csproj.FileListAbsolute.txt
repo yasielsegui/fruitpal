@@ -1,0 +1,8 @@
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Nuget\bin\Debug\netstandard2.0\Fruitpal.Nuget.deps.json
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Nuget\bin\Debug\netstandard2.0\Fruitpal.Nuget.dll
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Nuget\obj\Debug\netstandard2.0\Fruitpal.Nuget.csproj.CoreCompileInputs.cache
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Nuget\obj\Debug\netstandard2.0\Fruitpal.Nuget.AssemblyInfoInputs.cache
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Nuget\obj\Debug\netstandard2.0\Fruitpal.Nuget.AssemblyInfo.cs
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Nuget\bin\Debug\netstandard2.0\Fruitpal.Nuget.pdb
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Nuget\obj\Debug\netstandard2.0\Fruitpal.Nuget.dll
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Nuget\obj\Debug\netstandard2.0\Fruitpal.Nuget.pdb

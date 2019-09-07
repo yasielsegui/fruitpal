@@ -1,0 +1,17 @@
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Fruitpal.Tests.deps.json
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Fruitpal.Tests.runtimeconfig.json
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Fruitpal.Tests.runtimeconfig.dev.json
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Fruitpal.Tests.dll
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Fruitpal.Nuget.dll
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Fruitpal.Nuget.pdb
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\obj\Debug\netcoreapp2.1\Fruitpal.Tests.csprojAssemblyReference.cache
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\obj\Debug\netcoreapp2.1\Fruitpal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\obj\Debug\netcoreapp2.1\Fruitpal.Tests.AssemblyInfoInputs.cache
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\obj\Debug\netcoreapp2.1\Fruitpal.Tests.AssemblyInfo.cs
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\obj\Debug\netcoreapp2.1\Fruitpal.Tests.csproj.CopyComplete
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\bin\Debug\netcoreapp2.1\Fruitpal.Tests.pdb
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\obj\Debug\netcoreapp2.1\Fruitpal.Tests.dll
+C:\Users\yasiel\source\repos\Fruitpal\Fruitpal.Tests\obj\Debug\netcoreapp2.1\Fruitpal.Tests.pdb
