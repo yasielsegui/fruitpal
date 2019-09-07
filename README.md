@@ -28,7 +28,7 @@ Fruitpal Source Code is delivered with the following projects:
 
 | Project | Description |
 | ------- | ------- |
-| Fruitpal.Client | A console application that uses the Nuget Package directly pulled from nuget.org |
+| Fruitpal.Client | A Console Application that uses the Nuget Package directly pulled from nuget.org.|
 | Fruitpal.Nuget | The actual Nuget Package implementation. |
 | Fruitpal.Test | The Unit Tests Project to test the Nuget Package Functionality |
 
