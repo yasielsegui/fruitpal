@@ -18,7 +18,7 @@ namespace Fruitpal.Client
 				try
 				{
 					// enter command message
-					Console.WriteLine("Enter command:");
+					Console.WriteLine("Enter command, eg: (fruitpal mango 53 405):");
 					// reading the line
 					var line = Console.ReadLine();
 					// checking if is the 'exit command'
